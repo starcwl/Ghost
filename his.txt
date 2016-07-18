@@ -1,0 +1,1000 @@
+   15  cd model/
+   16  cd ..
+   17  vim signup.js 
+   18  ls
+   19  vim users.js 
+   20  cd signup.js 
+   21  vim users.js 
+   22  cd api/
+   23  ls
+   24  vim index.js 
+   25  ls
+   26  cd ..
+   27  ls
+   28  cd news/
+   29  git status
+   30  exit
+   31  ls
+   32  cd aihang/
+   33  ls
+   34  cd news
+   35  git status
+   36  git branch -a
+   37  ls -a
+   38  git remote -v
+   39  cd ../cloud/
+   40  ls
+   41   git status
+   42  cd ..
+   43  exit
+   44  ls
+   45  cd tmp/
+   46  ls
+   47  mkdir temp
+   48  cd temp/
+   49  ls
+   50  npm install libxmljs --save
+   51  node -v
+   52  npm install libxmljs@0.16.0 --save
+   53  su -
+   54  pwd
+   55  ls
+   56  npm install libxmljs@0.16.0 --save
+   57  npm upgrade
+   58  npm -v
+   59  node -v
+   60  exit
+   61  node -v
+   62  pwd
+   63  ls
+   64  cd tmp/
+   65  ls
+   66  cd temp/
+   67  ls
+   68  pwd
+   69  ls
+   70  node install libxmljs@0.16.0
+   71  npm install libxmljs@0.16.0
+   72  npm explore npm -g -- npm install node-gyp@latest
+   73  su -
+   74  node-gyp -v
+   75  exit
+   76  gcc -v
+   77  g++ -v
+   78  pwd
+   79  cd tmp/
+   80  cd temp/
+   81  npm -v
+   82  node -v
+   83  npm install libxmljs
+   84  gcc -v
+   85  exit
+   86  gcc -v
+   87  slc enalbe devtoolset-2
+   88  slc
+   89  scl enable devtoolset-2
+   90  scl -l
+   91  scl enable devtoolset-2
+   92  scl enable devtoolset-2 bash
+   93  exit
+   94  npm install libxmljs
+   95  cd bin/
+   96  node cloud 
+   97  cd ..
+   98  npm install 
+   99  ./start.sh 
+  100  tail -f nohup.out 
+  101  vi ./public/index.html 
+  102  git status
+  103  git pull
+  104  git status
+  105  node bin/cloud 
+  106  ls
+  107  vi public/news.html 
+  108  git reflog
+  109  git reset --hard c3b3125
+  110  git reset --hard ffc0c65
+  111  git status
+  112  ls
+  113  sh stop.sh 
+  114  tail -f nohup.out 
+  115  sh stop.sh 
+  116  npm install
+  117  tail -f nohup.out 
+  118  sh stop.sh 
+  119  vi nohup.out 
+  120  git reset --hard ffc0c65
+  121  git reflog
+  122  git reset --hard c3b3125
+  123  git status
+  124  tail -f nohup.out 
+  125  git reflog
+  126  git reset --hard bc5a490
+  127  tail -f nohup.out 
+  128  git reset --hard ffc0c65
+  129  git status
+  130  cd..
+  131  cd ~
+  132  ls
+  133  git aihang/
+  134  cd cl
+  135  ls
+  136  git aihang/
+  137  cd aihang/
+  138  cd cloud/
+  139  ls
+  140  cd bin 
+  141  ls
+  142  nohup node cloud 
+  143  tail -f nohup.out 
+  144  sh stop.sh 
+  145  cd ..
+  146  sh stop.sh 
+  147  cd cloud/
+  148  ls
+  149  sh stop.sh 
+  150  ./start.sh 
+  151  ls
+  152  vi public/index.html 
+  153  exit
+  154  ls
+  155  cd aihang/cloud/
+  156  ls
+  157  vim package.json 
+  158  ls -a
+  159  cd bin/
+  160  ls
+  161  cd ..
+  162  ls
+  163  vim start.sh 
+  164  sh start.sh 
+  165  sh stop.sh 
+  166  ls
+  167  cd bin/
+  168  node cloud 
+  169  cd ..
+  170  ls
+  171  git status
+  172  git checkout -- .
+  173  git status
+  174  scl enable devtoolset-3 bash
+  175  scl enable devtoolset-2 bash
+  176  exit
+  177  ls
+  178  cd aihang/
+  179  ls
+  180  cd cloud/
+  181  ls
+  182  git status
+  183  git branch -av
+  184  git status
+  185  git log
+  186  git status
+  187  git push origin newCloud:newCloud
+  188  git status
+  189  git branch -a
+  190  git branch -av
+  191  git pull
+  192  ls
+  193  vim stop.sh 
+  194  sh stop.sh 
+  195  sh start.sh 
+  196  vim start.sh 
+  197  export NODE_ENV=production
+  198  nohup node ./bin/cloud &
+  199  nohup npm start&
+  200  ls
+  201  vim package.json 
+  202  npm start
+  203  npm install libxmljs
+  204  git log
+  205  git reset HEAD^^^
+  206  git branch -av
+  207  git reflog
+  208  git reset --heard c2d59b5
+  209  git reset --hard c2d59b5
+  210  git status
+  211  git branch -av
+  212  git log
+  213  git pull
+  214  git reset --hard c3b3125
+  215  git status
+  216  ls
+  217  sh start.sh 
+  218  npm start
+  219  ls
+  220  cd bin/
+  221  ls
+  222  node cloud 
+  223  git reset --hard ffc0c65
+  224  git status
+  225  cd ..
+  226  ls
+  227  npm install libxmljs
+  228  python
+  229  gcc
+  230  ls
+  231  vim package.json 
+  232  yum install gcc gcc-c++
+  233  whereis gcc-c++
+  234  whereis gcc
+  235  whereis make
+  236  whereis c++
+  237  vim package.json 
+  238  whereis node-gyp
+  239  node-gyp -v
+  240  clear
+  241  npm install libxmljs
+  242  npm install adriancooney/libxmljs
+  243  ls
+  244  vim package.json 
+  245  npm install libxmljs
+  246  npm uninstall libxmljs
+  247  npm cache clean
+  248  npm ls -g
+  249  vim package.json 
+  250  npm install libxmljs@0.14.2
+  251  git status
+  252  git checkout -- .
+  253  git status
+  254  npm install -g n
+  255  n v4.4.7
+  256  python -v
+  257  python -V
+  258  make -V
+  259  make -v
+  260  node -v
+  261  cd tmp/
+  262  cd temp/
+  263  ls
+  264  npm install libxmljs
+  265  npm install libxmljs@0.17.1
+  266  g++ -v
+  267  which g++
+  268  uname -an
+  269  cat /etc/redhat-release 
+  270  yum search g++
+  271  yum search gcc
+  272  yum search gcc|more
+  273  yum install g++
+  274  yum install gcc
+  275  su -
+  276  gcc -v
+  277  scl enable devtoolset-2 bash
+  278  cd tmp/
+  279  gcc -v
+  280  npm install libxmljs@0.17.1
+  281  su -
+  282  gcc -v
+  283  npm install libxmljs@0.17.1
+  284  cd
+  285  ls
+  286  df
+  287  ls
+  288  df
+  289  ls
+  290  ls -ltr
+  291  rm db_ihang.dump 
+  292  rm web.tar.gz 
+  293  pg_dump -U ihangdba db_ihang>db_ihang.dump
+  294  psql -U ihangdba db_ihang
+  295  cd aihang/
+  296  cd pms/
+  297  cd bin
+  298  ls
+  299  cd apache-tomcat-7.0.62
+  300  cd bin
+  301  ./shutdown.sh 
+  302  ./startup.sh 
+  303  ./shutdown.sh 
+  304  ./startup.sh 
+  305  psql -U ihangdba db_ihang
+  306  ls
+  307  cd
+  308  ls
+  309  pwd
+  310  ls
+  311  ls -ltr
+  312  rm db_ihang.dump 
+  313  pg_dump -U ihangdba db_ihang >db_ihang.dump
+  314  ls
+  315  pwd
+  316  cd 
+  317  cd aihang/
+  318  cd pms/
+  319  cd apache-tomcat-7.0.62
+  320  ls
+  321  cd webapps/
+  322  ls
+  323  rm web.tar
+  324  mv ~/web.tar.gz .
+  325  gzip -d web.tar.gz 
+  326  tar -xvf web.tar 
+  327  ../bin/shutdown.sh 
+  328  mv ROOT/ ~/bk/ROOT.0706
+  329  mv web ROOT
+  330  ls -ltr
+  331  ../bin/startup.sh 
+  332  cd ..
+  333  cd logs
+  334  tail -f catalina.out
+  335  \q
+  336  exit
+  337  ls
+  338  cd aihang/
+  339  ls
+  340  cd cloud/public/
+  341  ls
+  342  cd images/
+  343  ls
+  344  git status
+  345  git log
+  346  git reflog
+  347  git branch -av
+  348  cd ..
+  349  ls
+  350  cd bower_components/
+  351  ls
+  352  cd angular
+  353  ls
+  354  cd ..
+  355  ls
+  356  cd ..
+  357  ls
+  358  bower -v
+  359  bower install 
+  360  ls
+  361  cd public/
+  362  ls
+  363  cd images/
+  364  ls
+  365  cd calculator/
+  366  ls
+  367  cd ..
+  368  ls
+  369  cd calculator/
+  370  ls
+  371  cd ..
+  372  cd..
+  373  cd ..
+  374  ls
+  375  vim nohup.out 
+  376  sh stop.sh 
+  377  sh start.sh 
+  378  tail -f nohup.out 
+  379  sh stop.sh 
+  380  npm install 
+  381  cd bin/
+  382  ls
+  383  nohup node cloud 
+  384  tail -f nohup.out 
+  385  cd ..
+  386  ls
+  387  sh stop.sh 
+  388  tail -f nohup.out 
+  389  sh stop.sh 
+  390  sh start.sh 
+  391  tail -f nohup.out 
+  392  ls
+  393  cd /etc/nginx
+  394  ls
+  395  vim nginx.conf 
+  396  vi conf.d/
+  397  ls
+  398  whereis nginx
+  399  ls
+  400  cd ..
+  401  ls
+  402  cd nginx/
+  403  ls
+  404  vim nginx.conf
+  405  ls
+  406  cd ..
+  407  ls
+  408  cd /usr/local/
+  409  ls
+  410  whereis nginx
+  411   
+  412  cd /etc/nginx/
+  413  ls
+  414  vi nginx.conf
+  415  ls
+  416  cd conf.d/
+  417  ls
+  418  vi aihangyun.conf 
+  419  cd /opt/nginxroot/
+  420  ls
+  421  cd images/
+  422  ls
+  423  cd /etc/nginx/conf.d/
+  424  ls
+  425  vim aihangyun.conf 
+  426  cd /opt/nginxroot/
+  427  cp ~/aihang/cloud/public/images/calculator/ ./
+  428  ls
+  429  cd images/
+  430  ls
+  431  cp -r  ~/aihang/cloud/public/images/calculator/  ./
+  432  sudo cp -r  ~/aihang/cloud/public/images/calculator/  ./
+  433  ls
+  434  cd /etc/nginx/
+  435  cd conf.d/
+  436  ls
+  437  vim aihangyun.conf 
+  438  cd /opt/nginxroot/
+  439  ls
+  440  cd js/
+  441  ls
+  442  cd ..
+  443  ls
+  444  cd bower_components/
+  445  ls
+  446  cd ~/aihang/cloud/public/bower_components/
+  447  ls
+  448  cd /opt/nginxroot/
+  449  ls
+  450  cd bower_components/
+  451  ls
+  452  sudo cd ~/aihang/cloud/public/bower_components/angular-resource/ .
+  453  sudo cp ~/aihang/cloud/public/bower_components/angular-resource/ .
+  454  sudo cp -r  ~/aihang/cloud/public/bower_components/angular-resource/ .
+  455  ls
+  456  cd ~/aihang/cloud/public/bower_components/
+  457  ls
+  458  cd /opt/nginxroot/bower_components/
+  459  sudo cp -r  ~/aihang/cloud/public/bower_components/bootbox.js/ .
+  460  ls
+  461  cd ..
+  462  cd js
+  463  ls
+  464  cd  ~/aihang/cloud/public/
+  465  ls
+  466  cd /opt/nginxroot/js/
+  467  ls
+  468  sudo cp  ~/aihang/cloud/public/js/calculator.js  .
+  469  ls
+  470  cd ~/aihang/cloud/
+  471  ls
+  472  sh stop.sh 
+  473  sh start.sh 
+  474  cd public/font
+  475  ls
+  476  cd /opt/nginxroot/
+  477  ls
+  478  cd fonts
+  479  ls
+  480  cd ~/aihang/cloud/public/fonts
+  481  ls
+  482  cd .. ..
+  483  ls
+  484  cd ~/aihang/cloud/public/
+  485  ls
+  486  cd font
+  487  ls
+  488  cd ..
+  489  ls
+  490  cd twitter-bootstrap/
+  491  ls
+  492  cd fonts/
+  493  ls
+  494  sudo cp  ./* /opt/nginxroot/
+  495  sudo cp ./* /opt/nginxroot/fonts
+  496  ls
+  497  cd ..
+  498  cd fonts/
+  499  ls
+  500  sudo cp ./* ../fonts/
+  501  sudo cp ./*  ~/aihang/cloud/public/fonts/
+  502  ls
+  503  cd ~/aihang/cloud/public/fonts/
+  504  ls
+  505  cd ~
+  506  ls
+  507  cd 
+  508  ls
+  509  git status
+  510  exit
+  511  su -
+  512  ls
+  513  ls -ltr
+  514  cd aihang/
+  515  ls
+  516  ssh wondear@www.aihangyun.com
+  517  ls
+  518  cd pms/
+  519  ls
+  520  cd apache-tomcat-7.0.62
+  521  ls
+  522  cd logs/
+  523  ls
+  524  ls -ltr
+  525  tail -f catalina.out|grep SQL
+  526  cat catalina.out|grep Exception
+  527  cat catalina.out|grep Exception -n|more
+  528  ls
+  529  vi catalina.out
+  530  psql -U ihangdba db_ihang
+  531  ls
+  532  tail -f catalina.out
+  533  psql -U ihangdba db_ihang
+  534  tail -f catalina.out
+  535  ls
+  536  cd
+  537  ls
+  538  ls -ltr
+  539  gzip db_ihang.dump 
+  540  df
+  541  ls
+  542  cd aihang/
+  543  ls
+  544  psql -U ihangdba db_ihang
+  545  cd
+  546  su -
+  547  cd aihang/cloud/public/
+  548  ls
+  549  vim index.html 
+  550  vim pms.html 
+  551  vim inns.html 
+  552  vim goods.html 
+  553  vim contact.html 
+  554  cd news
+  555  ls
+  556  cd ..
+  557  ls
+  558  cd ..
+  559  ls
+  560  vim app.js 
+  561  cd routes/
+  562  ls
+  563  cd /etc/nginx/conf.d/
+  564  ls
+  565  vim aihangyun.conf 
+  566  cd !
+  567  cd ~
+  568  ls
+  569  cd aihang/
+  570  ls
+  571  cd news/
+  572  ls
+  573  vim index.js 
+  574  cd /etc/nginx/conf.d/
+  575  vim aihangyun.conf 
+  576  cd ~/aihang/
+  577  ls
+  578  cd news/
+  579  ls
+  580  cd content/
+  581  ls
+  582  cd themes/
+  583  ls
+  584  cd aihang/
+  585  ls
+  586  cd /etc/nginx/conf.d/
+  587  ls
+  588  vi aihangyun.conf 
+  589  cd ~
+  590  ls
+  591  cd aihang/cloud/
+  592  ls
+  593  cd ..
+  594  ls
+  595  cd news/
+  596  ls
+  597  vim index.js 
+  598  cd content/
+  599  ls
+  600  cd ..
+  601  cd core/
+  602  ls
+  603  cd index.js 
+  604  vim index.js 
+  605  cd ..
+  606  ls
+  607  cd node_modules/
+  608  ls
+  609  cd ..
+  610  ls
+  611  cd content/
+  612  ls
+  613  cd data/
+  614  ls
+  615  cd ..
+  616  cd themes/
+  617  ls
+  618  cd aihang/
+  619  ls
+  620  vim index.hbs 
+  621  vim default.hbs 
+  622  vim page.hbs 
+  623  cd assets/
+  624  ls
+  625  cd js
+  626  ls
+  627  cd ..
+  628  ls
+  629  cd ..
+  630  ls
+  631  vim index.hbs 
+  632  cd /etc/nginx/conf.d/
+  633  ls
+  634  vim aihangyun.conf 
+  635  cd /opt/nginxroot/
+  636  ls
+  637  vim index.html 
+  638  exit
+  639  su - 
+  640  ls
+  641  cd aihang/
+  642  ls
+  643  cd cloud/
+  644  ls
+  645  cd public/
+  646  ls
+  647  vim news.html 
+  648  exit
+  649  cd aihang/
+  650  cd cloud/
+  651  ls
+  652  git status
+  653  cd public/
+  654  ls
+  655  git add .
+  656  git commit -m "adopt ghost"
+  657  git pull
+  658  vi index.html 
+  659  ls
+  660  cd aihang
+  661  ls
+  662  cd news/
+  663  ls
+  664  cd ..
+  665  ls
+  666  cd cloud/
+  667  ls
+  668  cd ..
+  669  cd news/
+  670  ls
+  671  cd content/
+  672  ls
+  673  cd themes/
+  674  ls
+  675  cd aihang/
+  676  ls
+  677  git status
+  678  git branch -av
+  679  git remote -v
+  680  git status
+  681  git branch -av
+  682  git status
+  683  git branch -av
+  684  cd ..
+  685  ls
+  686  git status
+  687  git remote -av
+  688  git remote -v
+  689  git branch  -av
+  690  git status
+  691  diff
+  692  ls
+  693  cd themes/
+  694  ls
+  695  cd aihang/
+  696  ls
+  697  git status
+  698  cd ..
+  699  git status
+  700  git branch -a
+  701  cd ..
+  702  git status
+  703  git checkout stable
+  704  git log
+  705  git branch -av
+  706  clear
+  707  git status
+  708  git branch -av
+  709  git add .
+  710  git status
+  711  ls
+  712  cd content/themes/
+  713  ls
+  714  cd ..
+  715  cd themes/aihang/
+  716  ls
+  717  git status
+  718  git branch -av
+  719  git remote -v
+  720  git pull
+  721  ls
+  722  cd partials/
+  723  ls
+  724  vim header.hbs 
+  725  git status
+  726  cd ..
+  727  ls
+  728  git status
+  729  git rm --cached content/themes/aihang/
+  730  ls
+  731  git status
+  732  git add .
+  733  git status
+  734  git rm --cache content/themes/aihang/
+  735  ls
+  736  ls -a
+  737  vim .gitignore 
+  738  git rm --cache content/themes/aihang
+  739  git status
+  740  git rm --cache content/themes/casper/
+  741  vim .gitignore 
+  742  git rm --cache content/themes/casper
+  743  git status
+  744  git add .
+  745  git status
+  746  git rm content/themes/aihang
+  747  git rm --cached content/themes/aihang
+  748  git status
+  749  git add content/themes/casper
+  750  git status
+  751  git commit -m "solve cached casper"
+  752  git status
+  753  git push 
+  754  ls
+  755  cd .git
+  756  ls
+  757  vim config 
+  758  git status
+  759  cd ..
+  760  git status
+  761  git push
+  762  git status
+  763  exit
+  764  ls
+  765  cd aihang/news/
+  766  ls
+  767  vim nohup.out 
+  768  cd core/
+  769  ls
+  770  cd //
+  771  cd ~
+  772  ls
+  773  cd ..
+  774  cd ~
+  775  ls
+  776  cd aihang/
+  777  ps -ef|grep ghost
+  778  ps -ef|grep ghostcms
+  779  ps -ef|grep ghost*
+  780  ps -aux | grep java
+  781  ps -aux | grep ghost
+  782  ps
+  783  ps -aux
+  784  ps -ef
+  785  ls
+  786  cd news/
+  787  cd /opt/nginxroot/
+  788  ls
+  789  cd assets/
+  790  ls
+  791  vim header.json
+  792  cd ..
+  793  ls
+  794  vim index.html 
+  795  ls
+  796  cd ~/
+  797  ls
+  798  cd aihang/
+  799  ls
+  800  cd cloud/
+  801  ls
+  802  vi app.js 
+  803  vim /etc/nginx/conf.d/
+  804  cd /etc/nginx/conf.d/
+  805  ls
+  806  vim aihangyun.conf 
+  807  netstat -tunlp |grep 2368
+  808  vim ~/aihang
+  809  cd ~/aihang/
+  810  ls
+  811  cd cloud/
+  812  ls
+  813  vi nohup.out 
+  814  vim stop.sh 
+  815  sh stop.sh 
+  816  sh start.sh 
+  817  cd ../news/
+  818  ls
+  819  cd content/
+  820  ls
+  821  cd themes/
+  822  ls
+  823  cd aihang/
+  824  ls
+  825  cd partials/
+  826  ls
+  827  vim header.hbs 
+  828  ls
+  829  vi navigation.hbs 
+  830  vim loop.hbs 
+  831  exit
+  832  psql -U ihangdba db_ihang
+  833  pwd
+  834  cd aihang/
+  835  cd pms/
+  836  ls
+  837  cd apache-tomcat-7.0.62
+  838  ls
+  839  cd bin
+  840  ./shutdown.sh 
+  841  ./startup.sh 
+  842  cd ..
+  843  cd logs/
+  844  ls
+  845  tail -f catalina.out
+  846  cd aihang/
+  847  ls
+  848  cd cloud/
+  849  git status
+  850  top
+  851  git status
+  852  git diff public/index.html 
+  853  git status
+  854  git checkout -- public/index.html 
+  855  git diff public/news.html
+  856  git status
+  857  git add .
+  858  git commit -m "fix link"
+  859  git push
+  860  git pull
+  861  ls
+  862  cd aihang/cloud/
+  863  ls
+  864  git status
+  865  git branch -av
+  866  git pull
+  867  ls
+  868  sh stop.sh 
+  869  sh start.sh 
+  870  ls
+  871  cd public/
+  872  ls
+  873  cd js
+  874  ls
+  875  cd ..
+  876  ls
+  877  cd ..
+  878  ls
+  879  cd routes/
+  880  ls
+  881  git status
+  882  vim signup.js 
+  883  cd ../public/js/calculator.js 
+  884  vi ../public/js/calculator.js 
+  885  ls
+  886  vim index.js 
+  887  cd ..
+  888  ls
+  889  sh stop.sh 
+  890  git status
+  891  git branch -av
+  892  ls
+  893  nohup npm start
+  894  sh start.sh 
+  895  cd /opt/nginxroot/
+  896  ls
+  897  cd js
+  898  ls
+  899  rm calculator.js 
+  900  sudo rm calculator.js 
+  901  ls
+  902  sudo cp ~/aihang/cloud/public/js/calculator.js  ./
+  903  ls
+  904  cd ..
+  905  ls
+  906  cd ~
+  907  ls
+  908  cd aihang/cloud/
+  909  ls
+  910  sh stop.sh 
+  911  sh start.sh 
+  912  git status
+  913  exit
+  914  cd /opt/nginxroot/
+  915  ls
+  916  cd assets/
+  917  ls
+  918  vim header.json
+  919  vim header.jsonp
+  920  cd global/
+  921  ls
+  922  cd ..
+  923  ls
+  924  cd app/
+  925  ls
+  926  vim aihang.js 
+  927  cd /etc/nginx/conf.d/
+  928  ls
+  929  vim aihangyun.conf 
+  930  cd ~/aihang/news/
+  931  ls
+  932  cd ..
+  933  ls
+  934  cd  ..
+  935  ls
+  936  cd buildDir/
+  937  ls
+  938  cd ..
+  939  ls
+  940  ca aihang/news/
+  941  ls
+  942  cd aihang/news/
+  943  ls
+  944  cd content/
+  945  ls
+  946  cd themes/
+  947  ls
+  948  cd aihang/
+  949  ls
+  950  cd partials/
+  951  ls
+  952  cd header.hbs 
+  953  vi header.hbs 
+  954  ls
+  955  cd ..
+  956  cd /etc/nginx/
+  957  ls
+  958  vim nginx.conf
+  959  vim conf.d/aihangyun.conf 
+  960  cd ~
+  961  ls
+  962  cd aihang/
+  963  ls
+  964  cd news 
+  965  ls
+  966  cd core/
+  967  ls
+  968  cd server/
+  969  ls
+  970  vim index.js 
+  971  cd ..
+  972  ls
+  973  cd ..
+  974  ls
+  975  cd content/
+  976  ls
+  977  cd themes/
+  978  ls
+  979  cd aihang/
+  980  ls
+  981  exit
+  982  cd aihang/news/
+  983  ls
+  984  jobs
+  985  ps -ef|grep node
+  986  ps -ef|grep npm
+  987  cd /usr/bin/node 
+  988  lsof -i|2368
+  989  lsof -i:2368
+  990  ps -ef|grep npm
+  991  ps -ef|grep node
+  992  lsof -i:2368
+  993  ps -ef|grep npm
+  994  kill -9 2823
+  995  nohup npm start &
+  996  exit
+  997  ls
+  998  cd aihang/
+  999  ls
+ 1000  cd news
+ 1001  ls
+ 1002  find . -name favicon.ico -prin
+ 1003  find . -name favicon.ico -print
+ 1004  find . -name favicon* -print
+ 1005  cd core
+ 1006  cd shared
+ 1007  ls
+ 1008  cp ~/aihang/cloud/public/favicon.ico .
+ 1009  ls
+ 1010  ls -ltr
+ 1011  cd ..
+ 1012  ls
+ 1013  history|grep news
+ 1014  history>his.txt
